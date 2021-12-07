@@ -1,0 +1,15 @@
+D:\Development\CrossInformTest\CrossInformTest\CrossInformTest\bin\Debug\net6.0\CrossInformTest.exe
+D:\Development\CrossInformTest\CrossInformTest\CrossInformTest\bin\Debug\net6.0\CrossInformTest.deps.json
+D:\Development\CrossInformTest\CrossInformTest\CrossInformTest\bin\Debug\net6.0\CrossInformTest.runtimeconfig.json
+D:\Development\CrossInformTest\CrossInformTest\CrossInformTest\bin\Debug\net6.0\CrossInformTest.dll
+D:\Development\CrossInformTest\CrossInformTest\CrossInformTest\bin\Debug\net6.0\ref\CrossInformTest.dll
+D:\Development\CrossInformTest\CrossInformTest\CrossInformTest\bin\Debug\net6.0\CrossInformTest.pdb
+D:\Development\CrossInformTest\CrossInformTest\CrossInformTest\obj\Debug\net6.0\CrossInformTest.csproj.AssemblyReference.cache
+D:\Development\CrossInformTest\CrossInformTest\CrossInformTest\obj\Debug\net6.0\CrossInformTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\CrossInformTest\CrossInformTest\CrossInformTest\obj\Debug\net6.0\CrossInformTest.AssemblyInfoInputs.cache
+D:\Development\CrossInformTest\CrossInformTest\CrossInformTest\obj\Debug\net6.0\CrossInformTest.AssemblyInfo.cs
+D:\Development\CrossInformTest\CrossInformTest\CrossInformTest\obj\Debug\net6.0\CrossInformTest.csproj.CoreCompileInputs.cache
+D:\Development\CrossInformTest\CrossInformTest\CrossInformTest\obj\Debug\net6.0\CrossInformTest.dll
+D:\Development\CrossInformTest\CrossInformTest\CrossInformTest\obj\Debug\net6.0\ref\CrossInformTest.dll
+D:\Development\CrossInformTest\CrossInformTest\CrossInformTest\obj\Debug\net6.0\CrossInformTest.pdb
+D:\Development\CrossInformTest\CrossInformTest\CrossInformTest\obj\Debug\net6.0\CrossInformTest.genruntimeconfig.cache
